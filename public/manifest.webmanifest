@@ -1,0 +1,18 @@
+{
+  "name": "SiteClass v2",
+  "short_name": "SiteClass",
+  "description": "Offline field photo classification and notes for ESA & PCA site walks",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F2F0EA",
+  "theme_color": "#F2F0EA",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
